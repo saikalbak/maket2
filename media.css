@@ -57,7 +57,7 @@
         width: auto;
     }
 }
-@media screen and (max-width:350px){
+@media screen and (max-width:400px){
     .content{
         padding: 10px;
     }
@@ -71,8 +71,8 @@
         font-size: 50px;
     }
     .section4_info_buttons{
-        width: 300px;
-        margin: 0;
+        width: auto;
+        margin: auto;
     }
     .section4_info_buttons_input{
         padding: 0;
