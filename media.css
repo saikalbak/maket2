@@ -36,13 +36,15 @@
     }
 }
 @media screen and (max-width:450px){
+    .section4_info{
+        max-width: 400px;
+    }
     .section4_info_buttons{
         width: 200px;
         flex-direction: column;
     }
     .footer_nav{
         flex-wrap: wrap;
-        /* line-height: 50px; */
         flex-direction: column;
         display: flex;
         justify-content: space-between;
@@ -58,6 +60,9 @@
     }
 }
 @media screen and (max-width:400px){
+    .section4_info{
+        max-width: 300px;
+    }
     .content{
         padding: 10px;
     }
