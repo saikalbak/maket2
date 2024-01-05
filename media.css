@@ -7,6 +7,7 @@
     }
     .content{
         padding: 0 20px;
+        overflow: hidden;
     }
     .header_img{
         display: none;
@@ -40,8 +41,9 @@
         max-width: 380px;
     }
     .section4_info_buttons{
-        width: 12rem;
+        width: auto;
         flex-direction: column;
+        overflow: hidden;
     }
     .footer_nav{
         flex-wrap: wrap;
@@ -80,6 +82,7 @@
     .section4_info_buttons{
         width: auto;
         margin: auto;
+        overflow: hidden;
     }
     .section4_info_buttons_input{
         width: auto;
