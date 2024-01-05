@@ -81,6 +81,7 @@ nav{
     border: 1px solid rgb(255,123,78);
     border-radius: 100px;
     transition: .5s;
+    margin: 0 20px;
 }
 .nav_btn:hover{
     background-color: transparent;

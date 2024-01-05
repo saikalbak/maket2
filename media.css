@@ -37,7 +37,8 @@
 }
 @media screen and (max-width:450px){
     .section4_info{
-        max-width: 400px;
+        max-width: 380px;
+        padding: 0 5px;
     }
     .section4_info_buttons{
         width: 200px;
